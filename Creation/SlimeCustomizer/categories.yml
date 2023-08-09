@@ -1,0 +1,19 @@
+genesis:
+  category-name: '&x&9&9&3&2&C&C创世'
+  category-item: GRASS_BLOCK
+  type: nested
+genesis_1:
+  parent: genesis
+  category-name: '&x&0&0&F&F&7&F创世材料'
+  category-item: REDSTONE
+  type: sub
+genesis_2:
+  parent: genesis
+  category-name: '&x&0&0&F&F&7&F创世机器'
+  category-item: PISTON
+  type: sub
+genesis_3:
+  parent: genesis
+  category-name: '&x&0&0&F&F&7&F创世物品'
+  category-item: NETHER_STAR
+  type: sub

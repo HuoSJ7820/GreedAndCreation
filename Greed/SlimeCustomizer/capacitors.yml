@@ -1,0 +1,93 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Capacitors
+HDDR:
+  category: greedy_4
+  capacitor-name: "&8&l混沌电容"
+  capacitor-lore:
+  - ""
+  block-type: DEFAULT
+  capacity: 100000000
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: VOID_CAPACITOR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HDJH
+      amount: 1
+TLDR:
+  category: greedy_4
+  capacitor-name: "&8&l贪婪电容"
+  capacitor-lore:
+  - ""
+  block-type: DEFAULT
+  capacity: 800000000
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HDDR
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: TLJZ3
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1

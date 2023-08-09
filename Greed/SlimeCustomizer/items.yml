@@ -1,0 +1,2444 @@
+G_BEDROCK:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&f基岩"
+  item-lore:
+  - ""
+  item-id: BEDROCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BEDROCK1:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&7一阶压缩基岩"
+  item-lore:
+  - "&79个基岩压缩而来"
+  item-id: BEDROCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: G_BEDROCK
+      amount: 1
+BEDROCK2:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&7二阶压缩基岩"
+  item-lore:
+  - "&781个基岩压缩而来"
+  item-id: BEDROCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK1
+      amount: 1
+BEDROCK3:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&8三阶压缩基岩"
+  item-lore:
+  - "&7729个基岩压缩而来"
+  item-id: BEDROCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+BEDROCK4:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&8四阶压缩基岩"
+  item-lore:
+  - "&76561个基岩压缩而来"
+  item-id: BEDROCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+BEDROCK5:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&8五阶压缩基岩"
+  item-lore:
+  - "&759049个基岩压缩而来"
+  item-id: BEDROCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK4
+      amount: 1
+BEDROCK6:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: BEDROCK6
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK5
+      amount: 1
+BEDROCK7:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: BEDROCK7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+BEDROCK8:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: BEDROCK8
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK7
+      amount: 1
+BEDROCK9:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: BEDROCK9
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK8
+      amount: 1
+JYTK:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYTK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYXJ:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYXJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+JYHT:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYHT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+JYXZ:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYXZ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYJ:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYG:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYF:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYF
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    5:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYC:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYC
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+QIESJ:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&e切石机"
+  item-lore:
+  - ""
+  item-id: SKULLe466908d830aae3068182131fb2fb831a948f03ebcff03df9c375f2611d7e749
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+FAGHYS:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&e发光黑曜石"
+  item-lore:
+  - ""
+  item-id: SKULL56b74f76257495e44d061ce1bbde4618c393d0857965819534b87e38b9d8ee88
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+XJFYD:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&e下界反应堆"
+  item-lore:
+  - ""
+  item-id: SKULLe6efc86db92217c5a389672b2824275e7a206d7ec0f2c7e4ca483c6e17c9f6d5
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BIANJQ:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&e边界墙"
+  item-lore:
+  - ""
+  item-id: SKULL7c373b60c4804e8f851ba8829bc0250f2db03d5d9e9a010cc03a2d255ad7fc15
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BEDROCK_DIAMOND_ORE:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&f基岩钻石原矿"
+  item-lore:
+  - ""
+  item-id: SKULLd9563fdc4acab6db324b21bc43b238fe465e530a6327e7eef11d2d0c4ea
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BEDROCK_DIAMOND:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&f基岩钻石"
+  item-lore:
+  - ""
+  item-id: DIAMOND
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+MJS:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: MJS
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+MJK:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: MJK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HDJH:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: HDJH
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HDK:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: HDK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYZSTK:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYZSTK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_HELMET
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYZSXJ:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYZSXJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_CHESTPLATE
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYZSHT:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYZSHT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_LEGGINGS
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYZSXZ:
+  category: greedy_1
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYZSXZ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_BOOTS
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JYZSJ:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JYZSJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_SWORD
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SHDZX:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&b&l上帝之心"
+  item-lore:
+  - "&7世界的力量！"
+  item-id: SKULL26970053b4a5ffa25b511113ae25d72955ddb8dda2a8b3c27423013262da1a67
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: REPEATING_COMMAND_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: CHAIN_COMMAND_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: STRUCTURE_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: JIGSAW
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: XJFYD
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: FAGHYS
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: QIESJ
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BIANJQ
+      amount: 1
+CSZR:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSZR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SHDZX
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JYJ
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+WMZF:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: WMZF
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SHDZX
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JYF
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+LZX:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&e龙之心"
+  item-lore:
+  - ""
+  item-id: RED_DYE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: END_CRYSTAL
+      amount: 1
+    2:
+      type: VANILLA
+      id: ENDER_PEARL
+      amount: 1
+    3:
+      type: VANILLA
+      id: END_CRYSTAL
+      amount: 1
+    4:
+      type: VANILLA
+      id: ENDER_PEARL
+      amount: 1
+    5:
+      type: VANILLA
+      id: POPPED_CHORUS_FRUIT
+      amount: 1
+    6:
+      type: VANILLA
+      id: ENDER_PEARL
+      amount: 1
+    7:
+      type: VANILLA
+      id: END_CRYSTAL
+      amount: 1
+    8:
+      type: VANILLA
+      id: ENDER_PEARL
+      amount: 1
+    9:
+      type: VANILLA
+      id: END_CRYSTAL
+      amount: 1
+SIWANG:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: SIWANG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JIE:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: JIE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ZHANZHENG:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: ZHANZHENG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ZHIPEI:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: ZHIPEI
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+TQZL:
+  category: greedy_2
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TQZL
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SIWANG
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: JIE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ZHANZHENG
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ZHIPEI
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+RXA:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: RXA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+RXB:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: RXB
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+TANLAN:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TANLAN
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: RXA
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: RXB
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ZHD:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&d转换锭"
+  item-lore:
+  - ""
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BOOSTED_URANIUM
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ENRICHED_NETHER_ICE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+STSCK:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: STSCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+NTSCK:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: NTSCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+RYTSCK:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: RYTSCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+TLJZ1:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&8&l贪婪矩阵&7-&eI"
+  item-lore:
+  - ""
+  item-id: TARGET
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+TLJZ2:
+  category: greedy_3
+  item-type: CUSTOM
+  item-name: "&8&l贪婪矩阵&7-&eII"
+  item-lore:
+  - ""
+  item-id: TARGET
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+TLJZ3:
+  category: greedy_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLJZ3
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1

@@ -1,0 +1,594 @@
+WPJJJ:
+  category: genesis_2
+  machine-name: '&x&4&8&3&D&8&B物品进阶机'
+  machine-lore:
+  - '&7部分物品可通过该机器进阶'
+  block-type: ENCHANTING_TABLE
+  progress-bar-item: EMERALD
+  stats:
+    energy-consumption: 100
+    energy-buffer: 640
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: MGD
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: MGD
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CJJXLJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: MGBS
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MGBS
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MGBSJJ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MGD
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MGDJJ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CJJXLJ
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CJJXLJJJ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CNKCNJ:
+  category: genesis_2
+  machine-name: '&x&A&F&E&E&E&E充能卡充能机'
+  machine-lore:
+  - '&7给充能卡充能'
+  block-type: WARPED_PLANKS
+  progress-bar-item: REDSTONE
+  stats:
+    energy-consumption: 30
+    energy-buffer: 120
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BOOSTED_URANIUM
+      amount: 1
+    '3':
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: MGDJJ
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CJJXLJJJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: MGDJJ
+      amount: 1
+    '7':
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BOOSTED_URANIUM
+      amount: 1
+    '9':
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 24
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CNKWCN
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: CNSJ
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CNKYCN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+JCXNJQ:
+  category: genesis_2
+  machine-name: '&a基础心凝聚器'
+  machine-lore:
+  - '&7将某种物质凝聚成某种心'
+  block-type: BEACON
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 320
+    energy-buffer: 2048
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: MGBSJJ
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: MGDJJ
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CJJXLJJJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: MGDJJ
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CNKCNJ
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: MGBSJJ
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: WJKZXFZ
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: NETHERITE_BLOCK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZSZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: EMERALD_BLOCK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CFZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: LAPIS_BLOCK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: QJZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: COPPER_BLOCK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: PMZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZSZX
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: CFZX
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SSZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: SLIMEFUN
+          id: QJZX
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: PMZX
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: PFZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CJXNJQ:
+  category: genesis_2
+  machine-name: '&d超级心凝聚器'
+  machine-lore:
+  - '&7将某种物质凝聚成某种心'
+  block-type: BEACON
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 240
+    energy-buffer: 2048
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SSZX
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: CJJXLJJJ
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: JCXNJQ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: CJJXLJJJ
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: COMMAND_BLOCK5
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: PFZX
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: COMMAND_BLOCK5
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 12
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SSZX
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: PFZX
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CSZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 12
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CSZX
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: COMMAND_BLOCK5
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MLZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 12
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MLZX
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: CSYZHDK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CSYZHDZX
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+MLFKZZJ:
+  category: genesis_2
+  machine-name: '&d命令方块制造机'
+  machine-lore:
+  - '&7用于制造命令方块'
+  block-type: RESPAWN_ANCHOR
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 128
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ZSZX
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SSZX
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CFZX
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: CJJXLJJJ
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CNKCNJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: CJJXLJJJ
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: QJZX
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: PFZX
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: PMZX
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 60
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SSZX
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: CNKYCN
+          amount: 64
+      output:
+        '1':
+          type: VANILLA
+          id: COMMAND_BLOCK
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: CNKWCN
+          amount: 64
+JYZZJJQB:
+  category: genesis_2
+  machine-name: '&8基岩制造机&6（加强版）'
+  machine-lore:
+  - '&7能够制造基岩'
+  block-type: SKULL38db4e0404591c68863815d2e58ff8785232838ebe142e2dedcaa50da2c5885e
+  progress-bar-item: COAL
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: JYZZJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: OBSIDIAN
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: G_BEDROCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1

@@ -1,0 +1,1551 @@
+CSZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&x&9&0&E&E&9&0创世之心"
+  item-lore:
+  - ""
+  item-id: SKULL1818abf4b75321d22f5f9d28c0338e036f4140ac43340b989367c15cff639073
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+MLZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&6命&e令&a之&c心"
+  item-lore:
+  - ""
+  item-id: SKULL42ad56ae0e5e3526f87a4a94ca8cd484e39fbe2c8d8ac2418f9238e89841e4cb
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+COMMAND_BLOCK1:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&d一阶压缩命令方块"
+  item-lore:
+  - "&79个命令方块压缩而来"
+  item-id: COMMAND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+COMMAND_BLOCK2:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&d二阶压缩命令方块"
+  item-lore:
+  - "&781个命令方块压缩而来"
+  item-id: COMMAND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK1
+      amount: 1
+COMMAND_BLOCK3:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&d三阶压缩命令方块"
+  item-lore:
+  - "&7729个命令方块压缩而来"
+  item-id: COMMAND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK2
+      amount: 1
+COMMAND_BLOCK4:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&d四阶压缩命令方块"
+  item-lore:
+  - "&76561个命令方块压缩而来"
+  item-id: COMMAND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK3
+      amount: 1
+COMMAND_BLOCK5:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&d五阶压缩命令方块"
+  item-lore:
+  - "&759049个命令方块压缩而来"
+  item-id: COMMAND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COMMAND_BLOCK4
+      amount: 1
+MGBS:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&x&9&A&C&D&3&2铭谷宝石"
+  item-lore:
+  - ""
+  item-id: EMERALD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CARBON_CHUNK
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BOOSTED_URANIUM
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ENRICHED_NETHER_ICE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: GOLD_24K
+      amount: 1
+MGD:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&x&9&A&C&D&3&2铭谷锭"
+  item-lore:
+  - ""
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SOLDER_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HARDENED_METAL_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: GOLD_24K
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: FERROSILICON
+      amount: 1
+CJJXLJ:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&c超级机械零件"
+  item-lore:
+  - ""
+  item-id: REDSTONE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: STEEL_THRUSTER
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SOLAR_PANEL
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: COPPER_WIRE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: NETHER_ICE_COOLANT_CELL
+      amount: 1
+MGBSJJ:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&x&9&A&C&D&3&2铭谷宝石&7（进阶）"
+  item-lore:
+  - ""
+  item-id: DIAMOND
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+MGDJJ:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&x&9&A&C&D&3&2铭谷宝锭&7（进阶）"
+  item-lore:
+  - ""
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CJJXLJJJ:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&c超级机械零件&7（进阶）"
+  item-lore:
+  - ""
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CNKWCN:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&b充能卡&c（未充能）"
+  item-lore:
+  - ""
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    7:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+CNKYCN:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&b充能卡&a（已充能）"
+  item-lore:
+  - ""
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CNSJ:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&a充能水晶"
+  item-lore:
+  - ""
+  item-id: EMERALD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BOOSTED_URANIUM
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: MGBSJJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BOOSTED_URANIUM
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+ZSZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&b战神之心"
+  item-lore:
+  - ""
+  item-id: SKULLa2680a28962e9ad2d4872d06fba2cc60824fbb2d0824e42d958575b7563884aa
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CFZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&e财富之心"
+  item-lore:
+  - ""
+  item-id: SKULLe3ff8425f5ed4bfe1143eee8ec93eb921c352017c8b0d5c8519370662e99bdfc
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+QJZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&d奇迹之心"
+  item-lore:
+  - ""
+  item-id: SKULLc386b448cbe9f1d416dc57f9a30885089815c1f6718a6725b9215430c223ea9f
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+PMZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&8平民之心"
+  item-lore:
+  - ""
+  item-id: SKULL539a1c90a367c44faa49d0e273487770f2e3f83dcb1eba6d758b4730ae5f9688
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SSZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&6神圣之心"
+  item-lore:
+  - ""
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+PFZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&6平凡之心"
+  item-lore:
+  - ""
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CNKUAI:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&a充能块"
+  item-lore:
+  - ""
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CNSJ
+      amount: 1
+BEIBAO66:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: BEIBAO66
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CLOTH
+      amount: 1
+    2:
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CLOTH
+      amount: 1
+    4:
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    5:
+      type: VANILLA
+      id: WHITE_WOOL
+      amount: 1
+    6:
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CLOTH
+      amount: 1
+    8:
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CLOTH
+      amount: 1
+CSYS:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSYS
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: MLZX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CSZX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: MLZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: MLZX
+      amount: 1
+    5:
+      type: VANILLA
+      id: GLASS_BOTTLE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: MLZX
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: MLZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CSZX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: MLZX
+      amount: 1
+CSYZHDK:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&9&l创世宇宙混沌块"
+  item-lore:
+  - ""
+  item-id: OBSIDIAN
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SHDZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: TLJZ3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CSZX
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: MLZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SSZX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: PFZX
+      amount: 1
+CSYZHDZX:
+  category: genesis_1
+  item-type: CUSTOM
+  item-name: "&9&l创世宇宙混沌之心"
+  item-lore:
+  - ""
+  item-id: NETHER_STAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CSTK:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSTK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JYTK
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+CSXJ:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSXJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JYXJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+CSHT:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSHT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JYHT
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+CSXZ:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSXZ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JYXZ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+CSG:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: INFINITY_BOW
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+CSD:
+  category: genesis_3
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: CSD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: INFINITY_SHIELD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CNKUAI
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CSYZHDZX
+      amount: 1

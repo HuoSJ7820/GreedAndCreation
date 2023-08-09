@@ -1,0 +1,2151 @@
+JYZZJ:
+  category: greedy_4
+  machine-name: '&8基岩制造机'
+  machine-lore:
+  - '&7能够制造基岩'
+  block-type: SKULL38db4e0404591c68863815d2e58ff8785232838ebe142e2dedcaa50da2c5885e
+  progress-bar-item: COAL
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: MACHINE_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: MACHINE_CORE
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: MACHINE_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: OBSIDIAN
+          amount: 56
+        '2':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 32
+      output:
+        '1':
+          type: SLIMEFUN
+          id: G_BEDROCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+TSWZZZJ:
+  category: greedy_4
+  machine-name: '&b特殊物质制造机'
+  machine-lore:
+  - '&7'
+  block-type: SKULLc187e70ac5469e14264e7ac6c520b4090beafcd355940386192000c1cd1ea3c3
+  progress-bar-item: COAL
+  stats:
+    energy-consumption: 200
+    energy-buffer: 2000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_RAINBOW
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: VOID_HARVESTER
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_ENCHANTMENT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: MACHINE_CIRCUIT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: MACHINE_CORE
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: MACHINE_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: MAGIC_SINGULARITY
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: END_ESSENCE
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: EARTH_SINGULARITY
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: END_ESSENCE
+          amount: 24
+        '2':
+          type: VANILLA
+          id: END_STONE
+          amount: 3
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MJS
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MJS
+          amount: 12
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MJK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: G_BEDROCK
+          amount: 1
+        '2':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK_DIAMOND_ORE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK_DIAMOND_ORE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK_DIAMOND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK_DIAMOND
+          amount: 13
+        '2':
+          type: SLIMEFUN
+          id: MJK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: HDJH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: HDJH
+          amount: 10
+        '2':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 24
+      output:
+        '1':
+          type: SLIMEFUN
+          id: HDK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+SDFKZZJ:
+  category: greedy_4
+  machine-name: '&b上帝方块制造机'
+  machine-lore:
+  - '&7利用上帝之力制造神权方块'
+  block-type: SKULLf0ed876abc4aeb218dc51e6eca44ccf51cf0bd66c6d75cbbb0db9ad3d6f093
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 120
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK5
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HDK
+          amount: 21
+      output:
+        '1':
+          type: VANILLA
+          id: COMMAND_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COMMAND_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: REPEATING_COMMAND_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: REPEATING_COMMAND_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHAIN_COMMAND_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: CHAIN_COMMAND_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: STRUCTURE_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: STRUCTURE_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: JIGSAW
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 6
+        '2':
+          type: VANILLA
+          id: DIAMOND
+          amount: 3
+      output:
+        '1':
+          type: SLIMEFUN
+          id: XJFYD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: OBSIDIAN
+          amount: 1
+        '2':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: FAGHYS
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: QIESJ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: JIGSAW
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BIANJQ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ZLZ:
+  category: greedy_4
+  machine-name: '&d造龙者'
+  machine-lore:
+  - '&7制造龙相关物品'
+  block-type: PURPUR_PILLAR
+  progress-bar-item: END_CRYSTAL
+  stats:
+    energy-consumption: 80
+    energy-buffer: 640
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_ENDER
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ENDER_LUMP_3
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_ENDER
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: LZX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: MJK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: MJK
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: MJK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: WITHER_SKELETON_SKULL
+          amount: 1
+        '2':
+          type: VANILLA
+          id: END_CRYSTAL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DRAGON_HEAD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: POPPED_CHORUS_FRUIT
+          amount: 3
+        '2':
+          type: VANILLA
+          id: FIRE_CHARGE
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DRAGON_BREATH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: EGG
+          amount: 1
+        '2':
+          type: VANILLA
+          id: DRAGON_BREATH
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DRAGON_EGG
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+SCJ:
+  category: greedy_4
+  machine-name: '&a生草机'
+  machine-lore:
+  - '&7没精准但想要草方块？造这个'
+  block-type: DRIED_KELP_BLOCK
+  progress-bar-item: BONE_MEAL
+  stats:
+    energy-consumption: 6
+    energy-buffer: 100
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: BONE_MEAL
+      amount: 1
+    '2':
+      type: VANILLA
+      id: BONE_MEAL
+      amount: 1
+    '3':
+      type: VANILLA
+      id: BONE_MEAL
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_EARTH
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: MAGNESIUM_DUST
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_AIR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: DIRT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GRASS_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+TQTQJ:
+  category: greedy_4
+  machine-name: '&e天启提取机'
+  machine-lore:
+  - '&7全是人性所造成的'
+  block-type: DIAMOND_BLOCK
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 320
+    energy-buffer: 2048
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: FAGHYS
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SHDZX
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: XJFYD
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: TSWZZZJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BEDROCK6
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: MJK
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: SOUL_SAND
+          amount: 64
+        '2':
+          type: VANILLA
+          id: SOUL_SOIL
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SIWANG
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: ROTTEN_FLESH
+          amount: 64
+        '2':
+          type: VANILLA
+          id: DRIED_KELP_BLOCK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: JIE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: BLAZE_ROD
+          amount: 64
+        '2':
+          type: VANILLA
+          id: MAGMA_BLOCK
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZHANZHENG
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: VANILLA
+          id: LEAD
+          amount: 64
+        '2':
+          type: VANILLA
+          id: CHAIN
+          amount: 64
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZHIPEI
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+RXZZJ:
+  category: greedy_4
+  machine-name: '&e人性制造机'
+  machine-lore:
+  - '&7人的本质心理属性'
+  block-type: GOLD_BLOCK
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 320
+    energy-buffer: 2048
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SHDZX
+      amount: 1
+    '3':
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: TQTQJ
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BEDROCK3
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SIWANG
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: JIE
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: RXA
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 10
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZHANZHENG
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: ZHIPEI
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: RXB
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+YTKZHJ:
+  category: greedy_4
+  machine-name: '&b液体卡转换机'
+  machine-lore:
+  - '&7能将桶转换成液体卡'
+  block-type: LIGHT_BLUE_STAINED_GLASS
+  progress-bar-item: DIAMOND
+  stats:
+    energy-consumption: 4
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ZHD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: STSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: STSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: NTSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: NTSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: RYTSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+YTZHJ:
+  category: greedy_4
+  machine-name: '&b液体转换机'
+  machine-lore:
+  - '&7能将液体卡转换成液体'
+  block-type: LIGHT_BLUE_STAINED_GLASS
+  progress-bar-item: DIAMOND
+  stats:
+    energy-consumption: 4
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ZHD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: STSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: WATER_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: NTSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: MILK_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: RYTSCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LAVA_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+TLJZZZT:
+  category: greedy_4
+  machine-name: '&d贪婪矩阵制造台'
+  machine-lore:
+  - '&7能将贪婪制造为贪婪矩阵'
+  block-type: LECTERN
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '2':
+      type: VANILLA
+      id: CHAIN_COMMAND_BLOCK
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '5':
+      type: VANILLA
+      id: COMMAND_BLOCK
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '8':
+      type: VANILLA
+      id: REPEATING_COMMAND_BLOCK
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TANLAN
+          amount: 24
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TLJZ1
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TLJZ1
+          amount: 3
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TLJZ2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TLJZ2
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TLJZ3
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+XKFZJ:
+  category: greedy_4
+  machine-name: '&8虚空复制机'
+  machine-lore:
+  - '&7无穷无尽的虚空锭'
+  block-type: OBSIDIAN
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 128
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: INFINITE_VOID_HARVESTER
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SHDZX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BEDROCK2
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: VOID_INGOT
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ZSZHJ:
+  category: greedy_4
+  machine-name: '&b钻石转换机'
+  machine-lore:
+  - '&7能将黑曜石转换成钻石'
+  block-type: GRAY_STAINED_GLASS
+  progress-bar-item: DIAMOND
+  stats:
+    energy-consumption: 4
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ZHD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: OBSIDIAN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: RAW_CARBONADO
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: RAW_CARBONADO
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+JYTL:
+  category: greedy_4
+  machine-name: '&8&l基岩贪婪者'
+  machine-lore:
+  - '&7使九阶基岩量产！'
+  block-type: SKULL76b9147ed67ad34c7bf6a1f3efbfc92838f0216fe4be73669e23a23321640af7
+  progress-bar-item: REDSTONE
+  stats:
+    energy-consumption: 100
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: TLJZ3
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: BEDROCK9
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: SLIMEFUN
+          id: G_BEDROCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: BEDROCK9
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+LHZHJ:
+  category: greedy_4
+  machine-name: '&b灵魂转换机'
+  machine-lore:
+  - '&7能将灵魂沙与灵魂土之前进行转换'
+  block-type: BROWN_STAINED_GLASS
+  progress-bar-item: DIAMOND
+  stats:
+    energy-consumption: 4
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ZHD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: SOUL_SAND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SOUL_SOIL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: SOUL_SOIL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SOUL_SAND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+TDWZHJ:
+  category: greedy_4
+  machine-name: '&b特定物质转换机'
+  machine-lore:
+  - '&7将特定物质转换成难以获取的物质'
+  block-type: YELLOW_STAINED_GLASS
+  progress-bar-item: DIAMOND
+  stats:
+    energy-consumption: 4
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CORINTHIAN_BRONZE_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ZHD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ALUMINUM_BRONZE_INGOT
+      amount: 1
+    '4':
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    '5':
+      type: VANILLA
+      id: WATER_BUCKET
+      amount: 1
+    '6':
+      type: VANILLA
+      id: PAPER
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: DURALUMIN_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ALUMINUM_BRASS_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: LEATHER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LEAD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: WATER_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: HEART_OF_THE_SEA
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: PAPER
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NAME_TAG
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+YBKWTLZ:
+  category: greedy_4
+  machine-name: '&d原版矿物贪婪者'
+  machine-lore:
+  - '&7大量生产原版矿物！'
+  block-type: DEEPSLATE_TILES
+  progress-bar-item: REDSTONE
+  stats:
+    energy-consumption: 128
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: MJS
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND_ORE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: MJS
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND_ORE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: TANLAN
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND_ORE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: MJS
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND_ORE
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: MJS
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: AMETHYST_SHARD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AMETHYST_SHARD
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COPPER_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COPPER_INGOT
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 9
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ZHAOTZ:
+  category: greedy_4
+  machine-name: '&f造土者'
+  machine-lore:
+  - '&7生产土和黏土块'
+  block-type: SKULL675cf5121289cb8cd1f096aa17fd91dae7468c33ecc5649f604d981b1d6d28e5
+  progress-bar-item: CLAY_BALL
+  stats:
+    energy-consumption: 4
+    energy-buffer: 24
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '4':
+      type: VANILLA
+      id: SAND
+      amount: 1
+    '5':
+      type: VANILLA
+      id: SAND
+      amount: 1
+    '6':
+      type: VANILLA
+      id: SAND
+      amount: 1
+    '7':
+      type: VANILLA
+      id: DIRT
+      amount: 1
+    '8':
+      type: VANILLA
+      id: DIRT
+      amount: 1
+    '9':
+      type: VANILLA
+      id: DIRT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: SAND
+          amount: 3
+        '2':
+          type: VANILLA
+          id: GRAVEL
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIRT
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 1
+        '2':
+          type: VANILLA
+          id: SAND
+          amount: 2
+      output:
+        '1':
+          type: VANILLA
+          id: CLAY
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+ZHAOXUEZ:
+  category: greedy_4
+  machine-name: '&f造冰者'
+  machine-lore:
+  - '&7生产冰和雪'
+  block-type: SKULLc0bc28604e6b9ffe9dda08372b777a9bd5492d6641168fa453463ea2b215c7fb
+  progress-bar-item: SNOWBALL
+  stats:
+    energy-consumption: 4
+    energy-buffer: 24
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: WATER_BUCKET
+      amount: 1
+    '2':
+      type: VANILLA
+      id: WATER_BUCKET
+      amount: 1
+    '3':
+      type: VANILLA
+      id: WATER_BUCKET
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: WATER_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: ICE
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: ICE
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SNOWBALL
+          amount: 3
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+HYSZHJ:
+  category: greedy_4
+  machine-name: '&b黑曜石转换机'
+  machine-lore:
+  - '&7能将黑曜石与哭泣黑曜石之前进行转换'
+  block-type: BLACK_STAINED_GLASS
+  progress-bar-item: DIAMOND
+  stats:
+    energy-consumption: 4
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ZHD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ELECTRO_MAGNET
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: OBSIDIAN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CRYING_OBSIDIAN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: CRYING_OBSIDIAN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: OBSIDIAN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1

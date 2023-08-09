@@ -1,0 +1,24 @@
+greedy:
+  category-name: '&c&l☢贪婪☢'
+  category-item: WITHER_SKELETON_SKULL
+  type: nested
+greedy_1:
+  parent: greedy
+  category-name: '&b&l装备'
+  category-item: NETHERITE_CHESTPLATE
+  type: sub
+greedy_2:
+  parent: greedy
+  category-name: '&b&l物品'
+  category-item: NETHER_STAR
+  type: sub
+greedy_3:
+  parent: greedy
+  category-name: '&b&l资源'
+  category-item: BEDROCK
+  type: sub
+greedy_4:
+  parent: greedy
+  category-name: '&b&l科技'
+  category-item: BEACON
+  type: sub

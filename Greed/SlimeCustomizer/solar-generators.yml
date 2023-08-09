@@ -1,0 +1,721 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Solar-Generators
+JCHDFDJ:
+  category: greedy_4
+  generator-name: "&8&l基础混沌发电机"
+  generator-lore:
+  - ""
+  block-type: BLACKSTONE_WALL
+  stats:
+    energy-production:
+      day: 1000
+      night: 1000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ENERGY_REGULATOR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+GJHDFDJ:
+  category: greedy_4
+  generator-name: "&8&l高级混沌发电机"
+  generator-lore:
+  - ""
+  block-type: POLISHED_BLACKSTONE_WALL
+  stats:
+    energy-production:
+      day: 30000
+      night: 30000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JCHDFDJ
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BEDROCK_DIAMOND
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JCHDFDJ
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+CJHDFDJ:
+  category: greedy_4
+  generator-name: "&8&l超级混沌发电机"
+  generator-lore:
+  - ""
+  block-type: POLISHED_BLACKSTONE_BRICK_WALL
+  stats:
+    energy-production:
+      day: 250000
+      night: 250000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: GJHDFDJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: INFINITE_PANEL
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+ZJHDFDJ:
+  category: greedy_4
+  generator-name: "&8&l终极混沌发电机"
+  generator-lore:
+  - ""
+  block-type: BLACK_GLAZED_TERRACOTTA
+  stats:
+    energy-production:
+      day: 150000000
+      night: 150000000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: GJHDFDJ
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CJHDFDJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JCHDFDJ
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: INFINITE_PANEL
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HDK
+      amount: 1
+XSJCFDJ1:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eI"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 10
+      night: 10
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ2:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eII"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 25
+      night: 25
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ3:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eIII"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 40
+      night: 40
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ4:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eIV"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 55
+      night: 55
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ5:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eV"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 70
+      night: 70
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ6:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eVI"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 85
+      night: 85
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ7:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eVII"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 100
+      night: 100
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ8:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eVIII"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 115
+      night: 115
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ9:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eIX"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 130
+      night: 130
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+XSJCFDJ10:
+  category: greedy_4
+  generator-name: "&a新手基础发电机&7-&eX"
+  generator-lore:
+  - ""
+  block-type: NOTE_BLOCK
+  stats:
+    energy-production:
+      day: 145
+      night: 145
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XSJCFDJ9
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BRONZE_INGOT
+      amount: 1
+TLFDJ:
+  category: greedy_4
+  generator-name: "&8&l贪婪发电机"
+  generator-lore:
+  - ""
+  block-type: GRAY_GLAZED_TERRACOTTA
+  stats:
+    energy-production:
+      day: 320000000
+      night: 320000000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ZJHDFDJ
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: TLJZ3
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
